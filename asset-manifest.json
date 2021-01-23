@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/EkoForma/static/css/main.35dc3eb2.chunk.css",
+    "main.js": "/EkoForma/static/js/main.5c6c50de.chunk.js",
+    "main.js.map": "/EkoForma/static/js/main.5c6c50de.chunk.js.map",
+    "runtime-main.js": "/EkoForma/static/js/runtime-main.9cb10537.js",
+    "runtime-main.js.map": "/EkoForma/static/js/runtime-main.9cb10537.js.map",
+    "static/js/2.781944be.chunk.js": "/EkoForma/static/js/2.781944be.chunk.js",
+    "static/js/2.781944be.chunk.js.map": "/EkoForma/static/js/2.781944be.chunk.js.map",
+    "index.html": "/EkoForma/index.html",
+    "static/css/main.35dc3eb2.chunk.css.map": "/EkoForma/static/css/main.35dc3eb2.chunk.css.map",
+    "static/js/2.781944be.chunk.js.LICENSE.txt": "/EkoForma/static/js/2.781944be.chunk.js.LICENSE.txt",
+    "static/media/PaperHeader.1505ffb0.jpg": "/EkoForma/static/media/PaperHeader.1505ffb0.jpg",
+    "static/media/bimage1s.6b6e58ab.jpg": "/EkoForma/static/media/bimage1s.6b6e58ab.jpg",
+    "static/media/bimage2s.272e582c.jpg": "/EkoForma/static/media/bimage2s.272e582c.jpg",
+    "static/media/bimage3s.647e4548.jpg": "/EkoForma/static/media/bimage3s.647e4548.jpg",
+    "static/media/bimage4s.19c004ea.jpg": "/EkoForma/static/media/bimage4s.19c004ea.jpg",
+    "static/media/bimage5s.6b6e58ab.jpg": "/EkoForma/static/media/bimage5s.6b6e58ab.jpg",
+    "static/media/ekoFormaW.6b6e7a44.png": "/EkoForma/static/media/ekoFormaW.6b6e7a44.png",
+    "static/media/facebook.2dac35c2.png": "/EkoForma/static/media/facebook.2dac35c2.png",
+    "static/media/plasticHeader.bef55fd5.jpg": "/EkoForma/static/media/plasticHeader.bef55fd5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cb10537.js",
+    "static/js/2.781944be.chunk.js",
+    "static/css/main.35dc3eb2.chunk.css",
+    "static/js/main.5c6c50de.chunk.js"
+  ]
+}
