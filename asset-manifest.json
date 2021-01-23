@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/EkoForma-Build/static/css/main.35dc3eb2.chunk.css",
-    "main.js": "/EkoForma-Build/static/js/main.add636fb.chunk.js",
-    "main.js.map": "/EkoForma-Build/static/js/main.add636fb.chunk.js.map",
+    "main.js": "/EkoForma-Build/static/js/main.6990a1ca.chunk.js",
+    "main.js.map": "/EkoForma-Build/static/js/main.6990a1ca.chunk.js.map",
     "runtime-main.js": "/EkoForma-Build/static/js/runtime-main.65119884.js",
     "runtime-main.js.map": "/EkoForma-Build/static/js/runtime-main.65119884.js.map",
-    "static/js/2.9ce95781.chunk.js": "/EkoForma-Build/static/js/2.9ce95781.chunk.js",
-    "static/js/2.9ce95781.chunk.js.map": "/EkoForma-Build/static/js/2.9ce95781.chunk.js.map",
+    "static/js/2.781944be.chunk.js": "/EkoForma-Build/static/js/2.781944be.chunk.js",
+    "static/js/2.781944be.chunk.js.map": "/EkoForma-Build/static/js/2.781944be.chunk.js.map",
     "index.html": "/EkoForma-Build/index.html",
     "static/css/main.35dc3eb2.chunk.css.map": "/EkoForma-Build/static/css/main.35dc3eb2.chunk.css.map",
-    "static/js/2.9ce95781.chunk.js.LICENSE.txt": "/EkoForma-Build/static/js/2.9ce95781.chunk.js.LICENSE.txt",
+    "static/js/2.781944be.chunk.js.LICENSE.txt": "/EkoForma-Build/static/js/2.781944be.chunk.js.LICENSE.txt",
     "static/media/PaperHeader.1505ffb0.jpg": "/EkoForma-Build/static/media/PaperHeader.1505ffb0.jpg",
     "static/media/bimage1s.6b6e58ab.jpg": "/EkoForma-Build/static/media/bimage1s.6b6e58ab.jpg",
     "static/media/bimage2s.272e582c.jpg": "/EkoForma-Build/static/media/bimage2s.272e582c.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.65119884.js",
-    "static/js/2.9ce95781.chunk.js",
+    "static/js/2.781944be.chunk.js",
     "static/css/main.35dc3eb2.chunk.css",
-    "static/js/main.add636fb.chunk.js"
+    "static/js/main.6990a1ca.chunk.js"
   ]
 }
